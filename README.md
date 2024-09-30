@@ -66,7 +66,7 @@ Upload this `seo.php` To Your Target!
 
 
 <div align="center">
-<img src="https://i.postimg.cc/28H5T286/Penjajahshell.png">  
+<img src="https://github.com/Penjajahshell/seopenjajah/blob/main/Penjajahshell.png">  
 </div>
 
 
