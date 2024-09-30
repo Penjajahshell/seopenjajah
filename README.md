@@ -1,5 +1,5 @@
 
-<div align="center"><h1>seopenjajah Web Backdoor</h1></div>
+<div align="center"><h1>Seopenjajah Web Backdoor</h1></div>
 <br>
 
 <div align="center">
@@ -58,7 +58,7 @@
 <samp>
 
 I'm not responsible for what you guys do using my tools!
-I'm not responsible for what you guys do using my tools!, Segala macam backdoor yang membawa gecko dll, gecko asli hanya di github MadExploits
+I'm not responsible for what you guys do using my tools!, Segala macam backdoor yang membawa seopenjajah dll, seopenjajah asli hanya di github Penjajahshell
 
 if you want to using auto root please type `root` for older version `seo-old.php`
 
