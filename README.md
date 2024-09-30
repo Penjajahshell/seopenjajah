@@ -25,9 +25,9 @@
 I'm not responsible for what you guys do using my tools!
 I'm not responsible for what you guys do using my tools!, Segala macam backdoor yang membawa gecko dll, gecko asli hanya di github MadExploits
 
-if you want to using auto root please type `root` for older version `gecko-old.php`
+if you want to using auto root please type `root` for older version `seo-old.php`
 
-Upload this `gecko.php` To Your Target!
+Upload this `seo.php` To Your Target!
 
 
 <div align="center">
@@ -41,5 +41,5 @@ Upload this `gecko.php` To Your Target!
 </div>
 
 
-Copyright (c) 2023 MrMad
+Copyright (c) 2023 SEOPENJAJAH
 </samp>
